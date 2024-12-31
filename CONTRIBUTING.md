@@ -55,6 +55,27 @@ Merci de votre intérêt pour **CellModem** ! Ce projet vise à reconnecter le
 - Proposez des scripts ou des ressources dans **`OldstyleComputer/`**, pour des systèmes comme Commodore, Atari, ou Commander X16.
 
 ---
+---
+
+## 🚨 Besoin urgent : Interface cellulaire
+
+Nous avons besoin de contributions pour démarrer l’interface cellulaire du projet **CellModem**. Cette interface permettra à des téléphones modernes d’interagir avec des modems et des systèmes rétro. Voici les priorités :
+
+### 📋 Priorités de l’interface cellulaire :
+1. **Développer une application Android de base** :
+   - Envoyer des commandes AT via un signal audio modulé.
+   - Recevoir les réponses d’un modem en décodant les signaux audio.
+
+2. **Implémenter un flux de communication simple :**
+   - Champ texte pour envoyer des commandes AT.
+   - Zone d’affichage des réponses.
+
+3. **Concevoir une UI minimaliste mais fonctionnelle :**
+   - Ajouter des paramètres pour configurer les baudrates, bits de données, etc.
+
+---
+
+Si vous êtes intéressé(e) à contribuer à cette partie, ouvrez une "Issue" ou proposez directement un prototype en "Pull Request". Toute aide est la bienvenue pour donner vie à cette fonctionnalité clé !
 
 ## 🔧 Exemples d'améliorations possibles
 
