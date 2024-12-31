@@ -38,3 +38,6 @@ Ce code reÃ§oit des donnÃ©es via le port RS-232 et les renvoie en Ã©cho.
 
 ## ðŸ’¬ Contributions
 Partagez vos scripts ou vos idÃ©es pour enrichir cette section dÃ©diÃ©e au Commander X16 !
+
+
+Merci à @The8BitGuy pour son travail sur le Commander X16, une source d'inspiration !
